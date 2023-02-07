@@ -1,0 +1,15 @@
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.csproj.AssemblyReference.cache
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.AssemblyInfoInputs.cache
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.AssemblyInfo.cs
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.csproj.CoreCompileInputs.cache
+C:\Projects\с#_dz_7\dz_52\bin\Debug\net7.0\dz_52.exe
+C:\Projects\с#_dz_7\dz_52\bin\Debug\net7.0\dz_52.deps.json
+C:\Projects\с#_dz_7\dz_52\bin\Debug\net7.0\dz_52.runtimeconfig.json
+C:\Projects\с#_dz_7\dz_52\bin\Debug\net7.0\dz_52.dll
+C:\Projects\с#_dz_7\dz_52\bin\Debug\net7.0\dz_52.pdb
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.dll
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\refint\dz_52.dll
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.pdb
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\dz_52.genruntimeconfig.cache
+C:\Projects\с#_dz_7\dz_52\obj\Debug\net7.0\ref\dz_52.dll
